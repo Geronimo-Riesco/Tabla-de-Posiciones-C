@@ -1,5 +1,5 @@
 # Tabla-de-Posiciones
-# Realizado en C púro.
+# Realizado en C puro.
 
 1) Menu Principal
 ![MenuPrincipal](https://user-images.githubusercontent.com/83089714/161467314-f88a8527-a5ab-47a3-8ba3-180706524e9d.PNG)
